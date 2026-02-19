@@ -33,11 +33,6 @@ The objective is to compare financial performance trends and explore relationshi
 
 ---
 
-## 📷 Example Output
-The dashboard visualizes stock price and revenue trends for each company over time.
-
----
-
 ## 📂 Repository Structure
 Stock_Dashboard_Project.ipynb
 README.md
